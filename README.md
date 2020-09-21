@@ -16,13 +16,14 @@
     Al parecer no puedo adjuntar la salida del "AccesoAleatorio.cpp" ya que mi VSCode me tira un error
     Y creo que ese error es problema de mi VSCode, a continuacion le adjunto una captura del problema
 
-    ![](images/Error.png)
+   
 
 ---
 
 ## :black_circle: AccesoAleatorio
 
 ![](images/AccesoAleatorio.png)
+![](images/Error.png)
 
 ---
 
